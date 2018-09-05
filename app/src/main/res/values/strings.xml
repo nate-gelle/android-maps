@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhereTheTruck</string>
+    <string name="title_activity_find_truck">find_truck</string>
+</resources>
